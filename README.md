@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogaraja
-- 👀 I’m interested in Javascript Development
+- 👀 I’m interested in Web Application Development
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
